@@ -1,6 +1,7 @@
 
 
 const exceptions = [
+    'publicacionesoficiales.hacienda.gob.es',
     'achtag.sepe.es',
     'innovasur.com'
 ];
