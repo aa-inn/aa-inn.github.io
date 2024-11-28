@@ -3,6 +3,7 @@
 const exceptions = [
     'publicacionesoficiales.hacienda.gob.es',
     'achtag.sepe.es',
+    'revista.cortesgenerales.es',
     'innovasur.com'
 ];
 
